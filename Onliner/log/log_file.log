@@ -1,0 +1,12 @@
+
+2017-08-28 17:07:13 INFO  OnlinerTest:24 - ===Test started for checking user login===
+2017-08-28 17:07:13 INFO  BaseTest:23 - Onliner opened on the home page
+2017-08-28 17:07:16 INFO  HomePage:49 - Cheching that Onliner opened
+2017-08-28 17:07:16 INFO  HomePage:31 - 'Вход' button clicked
+2017-08-28 17:07:17 INFO  HomePage:37 - entered email Ditva@bk.ru  in the email text field
+2017-08-28 17:07:17 INFO  HomePage:39 - entered password Aspideru2x2 in the password text field
+2017-08-28 17:07:18 INFO  HomePage:41 - 'Войти' button clicked
+2017-08-28 17:07:19 INFO  OnlinerTest:32 - ===Test finished===
+2017-08-28 17:07:19 INFO  OnlinerTest:37 - ===Test started for checking searching products===
+2017-08-28 17:07:19 INFO  BaseTest:23 - Onliner opened on the home page
+2017-08-28 17:07:23 INFO  OnlinerTest:41 - ===Test finished===

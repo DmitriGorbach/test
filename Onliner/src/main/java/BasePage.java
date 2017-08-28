@@ -2,6 +2,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
 public class BasePage extends ConciseAPI {
+
+    public WebDriver driver;
+
     @Override
     public WebDriver getWebdriver() {
         return null;
@@ -11,6 +14,4 @@ public class BasePage extends ConciseAPI {
         this.driver = driver;
         PageFactory.initElements(driver,this);
     }
-
-    private WebDriver driver;
 }
